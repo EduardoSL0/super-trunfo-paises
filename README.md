@@ -37,7 +37,7 @@ O vencedor é definido pela soma dos atributos, seguindo regras específicas.
 
 ---
 
-## 🚀 Execução e Autor
+## 🚀 Execução
 
 **Como executar:**
 ```bash
