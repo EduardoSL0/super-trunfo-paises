@@ -40,6 +40,8 @@ O vencedor é definido pela soma dos atributos, seguindo regras específicas.
 ## 🚀 Execução
 
 **Como executar:**
-```bash
-gcc main.c -o jogo
+gcc super_trunfo.c -o jogo
 ./jogo
+
+## 👨‍💻 Autor
+Eduardo de Souza Leite
